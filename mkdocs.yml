@@ -1,11 +1,11 @@
 # Documentation page information
-site_name: SparkFun RA6M5 Thing Plus Hookup Guide
-site_description: The product manual for the RA6M5 Thing Plus from SparkFun Electronics
-site_url: https://sparkfun.github.io/SparkFun_Thing_Plus_RA6M5
+site_name: SparkFun RTK Torch Hookup Guide
+site_description: The product manual for the RTK Torch GNSS receiver from SparkFun Electronics
+site_url: https://sparkfun.github.io/SparkFun_RTK_Torch
 site_author: SparkFun Electronics
 
-repo_url: https://github.com/sparkfun/SparkFun_Thing_Plus_RA6M5
-repo_name: sparkfun/SparkFun_Thing_Plus_RA6M5
+repo_url: https://github.com/sparkfun/SparkFun_RTK_Torch
+repo_name: sparkfun/SparkFun_RTK_Torch
 
 copyright:
   Copyright 2024 - <a href="https://www.sparkfun.com/" target="_blank" rel="noopener">SparkFun Electronics&#174;</a><br>
@@ -193,7 +193,7 @@ plugins:
 
   # Add git committers at the bottom of the page
   - git-committers:
-      repository: sparkfun/SparkFun_Thing_Plus_RA6M5
+      repository: sparkfun/SparkFun_RTK_Torch
       branch: main
 
   # Add git authors at the bottom of the page
