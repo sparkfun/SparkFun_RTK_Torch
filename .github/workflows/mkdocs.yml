@@ -3,36 +3,14 @@ on:
   push:
     branches:
       - main
-
-permissions:
-  contents: write
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Instal pgnquant for optimize plugin
-        run: sudo apt-get install pngquant
-
-      - name: Set up Python runtime
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with:
-          python-version: 3.x
-
-      - name: Install Python dependencies
-        run: pip install mkdocs-monorepo-plugin mkdocs-redirects mkdocs-git-authors-plugin mkdocs-git-revision-date-localized-plugin mkdocs-git-committers-plugin-2 Pillow 'mkdocs-material[imaging]'
-
-      - name: Set up build cache
-        uses: actions/cache@v2
-        with:
-          key: ${{ github.ref }}
-          path: .cache
-
-      # - name: Install Insiders build
-      #   env:
-      #     GH_TOKEN: ${{ secrets.GH_TOKEN }} 
-      #   run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
-      
+          python-version: 3.12.0
+      - run: pip install mkdocs-material mkdocs-monorepo-plugin setuptools
+      - run: pip install mkdocs-with-pdf
       - run: mkdocs gh-deploy --force
