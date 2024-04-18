@@ -100,6 +100,10 @@ Located on the back side, are the MP2762AGV Charger IC, bq40z50 battery monitor,
 
 ## Tilt Compensation
 
+![RTK Torch taking readings at an angle](RTK-Torch_Tilt_Compensation_Pole.png)
+
+*RTK Torch taking readings at an angle*
+
 The RTK Torch benefits from an internal IMU that can allow a user to take very accurate location readings even if the pole is not completely vertical.
 
 The IM19 inertial module fuses MEMS sensor and GNSS RTK positioning data to deliver low-cost, high-precision attitude measurement, delivering corrected RTK position data while adding as little as 1cm inaccuracy to the position of the *point* of the surveying pole.
