@@ -2,7 +2,7 @@
 
 The following datasheets are available for the SparkFun RTK Torch:
 
-* [RTK Torch Schematic](Datasheets/RTK_Torch_Schematic_v2.1.pdf)
+* [RTK Torch Schematic](https://github.com/sparkfun/SparkFun_RTK_Torch/tree/main/Datasheets/RTK_Torch_Schematic_v2.1.pdf)
 * [ESP32-WROOM-32UE-N16R2 Microcontroller SOM](../Datasheets/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf)
 * [UM980 GNSS Receiver Datasheet](Datasheets/UM980_Datasheet.pdf)
 * [UM980 GNSS Receiver Commands](Datasheets/Unicore_Reference_Commands_Manual_For_N4_High_Precision_Products_V2_EN_R1_1.pdf)
