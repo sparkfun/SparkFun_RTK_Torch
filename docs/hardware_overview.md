@@ -2,7 +2,7 @@
 
 ## Power / USB
 
-The human interface to the Torch is simplistic by design: there is only one button and one USB port. There are three LEDs.
+The human interface to the RTK Torch is simplistic by design! There is only one button, one USB port, and three LEDs.
 
 ![RTK Torch Button and LEDs](RTK-Torch_Buttons_Front.png)
 
