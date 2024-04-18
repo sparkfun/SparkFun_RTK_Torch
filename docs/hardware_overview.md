@@ -6,7 +6,7 @@ The human interface to the RTK Torch is simplistic by design! There is only one 
 
 ![RTK Torch Button and LEDs](RTK-Torch_Buttons_Front.png)
 
-*RTK Torch Button and LEDs*
+*RTK Torch Power Button and LEDs*
 
 To turn the RTK Torch on, press and hold the power button for ~4 seconds. You will hear a short beep and all LEDs will illuminate indicating the device has powered on.
 
@@ -78,3 +78,23 @@ The RTK Torch kit includes the RTK Torch device, a [1/4" to 5/8" thread adapter]
 The RTK Torch includes a 7.2V 6.8Ahr 49Whr battery. This is capable of running the device for more than 25 hours under worst-case conditions.
 
 The RTK Torch utilizes fast USB-C PD charging up to 18W. This allows a fully discharged RTK Torch to be charged to 100% in a few hours.
+
+## Internal Mainboard
+
+![Main PCB Assembly](GPS-24672-RTK-Torch-Internal1.jpg)
+
+*Main PCB Assembly*
+
+While the user should never need to open the RTK Torch, above is an image of the top of the main PCB assembly. This shows the ESP32-WROOM-32UE-N16R2 module (16MB Flash, 2MB PSRAM), the [UM980 Tri-band High Precision GNSS receiver](https://www.sparkfun.com/products/23286), the IM91 IMU / Tilt Compensation sensor, the [STM32WLE5CCU6 MCU](https://www.st.com/en/microcontrollers-microprocessors/stm32wle5cc.html) with built-in LoRa, and 1W amplifier/front-end (centered at 900MHz).
+
+Located on the back side, are the MP2762AGV Charger IC, bq40z50 battery monitor, and the HUSB238 PD Sink IC. These combined allow for fast PD charging and monitoring of the 7.2V 6.8Ahr 49Whr battery pack.
+
+## Beeper
+
+The RTK Torch includes an internal buzzer to give audio feedback to the user. The following prompts are provided.
+
+* Power On: Beep once
+* Power Off: Beep three times
+* Entering Tilt Compensation: Beep Twice
+* While Tilt Compensation is Active: Short Beep every 10 seconds
+* Exit Tilt Compensation: Long Beep
