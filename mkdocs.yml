@@ -127,7 +127,6 @@ extra:
 # Configures webpage navigation
 nav:
   - Getting Started:
-    - Introduction: introduction.md
     - Hardware Overview: hardware_overview.md
     - Hardware Assembly: hardware_assembly.md
     - Software Overview:
