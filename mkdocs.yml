@@ -126,13 +126,10 @@ extra:
 
 # Configures webpage navigation
 nav:
-  - Getting Started:
-    - Hardware Overview: hardware_overview.md
-    - Hardware Assembly: hardware_assembly.md
-    - Firmware Overview: firmware_overview.md
-  - Resources:
-    - Hardware Resources: resources.md
-  - Support:
-    - Troubleshooting Tips: troubleshooting_tips.md
-    - Submit Issues: github/file_issue.md
-    - Contribute: github/contribute.md
+  - Hardware Overview: hardware_overview.md
+  - Hardware Assembly: hardware_assembly.md
+  - Firmware Overview: firmware_overview.md
+  - Resources: resources.md
+  - Troubleshooting Tips: troubleshooting_tips.md
+  - Submit Issues: github/file_issue.md
+  - Contribute: github/contribute.md
