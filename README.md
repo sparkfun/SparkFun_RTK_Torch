@@ -14,9 +14,7 @@ Repository Contents
 -------------------
 
 * **[/docs](/docs/)** - Online documentation files
-    * [assets](/docs/assets/) - Assets files
-        * [Schematic](/docs/assets/board_files/schematic.pdf) (.pdf)
-        * [img/hookup_guide/](/docs/assets/img/hookup_guide/) - Images for hookup guide documentation
+* **[Datasheets](/Datasheets) - Datasheets for the various bits of hardward in the RTK Torch
 
 Product Variants
 ----------------
@@ -27,7 +25,7 @@ Product Variants
 License Information
 -------------------
 
-This product is ***open source***!
+This product's firmware and this repo are ***open source***!
 
 Please review the [`LICENSE.md`](./LICENSE.md) file for license information.
 
