@@ -1,5 +1,7 @@
 # Hardware Overview
 
+This is an overview of the RTK Torch hardware including the parts included with the kit. For an in-depth description of the software and configuration options for the RTK Torch, please refer to the [RTK Everywhere Product Manual](https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware/) which describes the software features of all SparkFun RTK Everywhere capable products.
+
 ## GNSS Receiver Specifications
 
 ![alt text](GPS-24672-Action-4.jpg)
