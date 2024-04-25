@@ -9,12 +9,15 @@ The RTK Torch is the latest and greatest generation RTK product from SparkFun El
 
 This repo houses the datasheets and technical information for the specific hardware devices inside RTK Torch. For the firmware, see [RTK Everywhere Firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware). This repo also houses the Hookup Guide material.
 
+[![RTK Torch Antenna Reference Point](RTK-Torch-ARP-Small.jpg)](RTK-Torch-ARP.jpg)
+
+*RTK Torch Antenna Reference Point*
 
 Repository Contents
 -------------------
 
-* **[/docs](/docs/)** - Online documentation files
-* **[Datasheets](/Datasheets) - Datasheets for the various bits of hardward in the RTK Torch
+* **[/docs](/docs/)** - Markdown files used in the [hookup guide](https://docs.sparkfun.com/SparkFun_RTK_Torch/)
+* **[Datasheets](/Datasheets)** - Datasheets for the various bits of hardware in the RTK Torch
 
 Product Variants
 ----------------

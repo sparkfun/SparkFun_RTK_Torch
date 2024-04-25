@@ -4,7 +4,9 @@ This is an overview of the RTK Torch hardware including the parts included with 
 
 ## GNSS Receiver Specifications
 
-![alt text](GPS-24672-Action-4.jpg)
+![RTK Torch on a Monopod + Bipod](GPS-24672-Action-4.jpg)
+
+*RTK Torch on a Monopod + Bipod*
 
 The RTK Torch from SparkFun Electronics uses the UM980 high precision RTK capable GNSS receiver from Unicore ([datasheet](../Datasheets/UM980_Datasheet.pdf)). The receiver is capable of achieving the following accuracies:
 
@@ -32,6 +34,14 @@ The UM980 is capable of receiving the following GNSS frequencies:
 * SBAS
 
 The RTK Torch utilizes a specially tuned multi-frequency helical antenna making the overall device smaller and more lightweight than competing units. 
+
+## Antenna Reference Point
+
+[![SparkFun RTK Torch ARP](RTK-Torch-ARP-Small.jpg)](RTK-Torch-ARP.jpg)
+
+*SparkFun RTK Torch Antenna Reference Point*
+
+The ARP for the RTK Torch is **115mm** to L1 and **118mm** to L2/L5 reception.
 
 ## Power / USB
 
