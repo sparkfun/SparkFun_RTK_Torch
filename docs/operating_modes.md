@@ -11,7 +11,7 @@ The RTK Torch can be used in a variety of modes:
 
 ## Rover
 
-In **Rover** mode, the RTK Torch will receive L1, L2, and L5 GNSS signals from the four constellations (GPS, GLONASS, Galileo, and BeiDou) and output the devices' position with accuracies around 800mm. The device will calculate the position based on the combination of GNSS and any correction signals (primarily DGPS if available). Similar to a standard-grade GPS receiver, the RTK Torch will output industry standard NMEA sentences at 2Hz and broadcast them over any paired Bluetooth® device. The end user will need to parse the NMEA sentences using commonly available mobile apps, GIS products, or embedded devices (there are many open source libraries).
+In **Rover** mode, the RTK Torch will receive L1, L2, and L5 GNSS signals from the four constellations (GPS, GLONASS, Galileo, and BeiDou) and output the devices' position with accuracies around 800mm. The device will calculate the position based on the combination of GNSS and any correction signals (primarily DGPS if available). Similar to a standard-grade GPS receiver, the RTK Torch will output industry standard NMEA sentences at 2Hz and broadcast them over any paired Bluetooth® device. The end user will need to parse the NMEA sentences using [commonly available mobile apps, GIS products](https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware/gis_software/), or embedded devices (there are many open source libraries).
 
 ## Rover with RTK
 
