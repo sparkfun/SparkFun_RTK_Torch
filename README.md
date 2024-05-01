@@ -22,8 +22,8 @@ Repository Contents
 Product Variants
 ----------------
 
-* [GPS-24672](https://www.sparkfun.com/products/24672) - Beta hardware
 * [GPS-25662](https://www.sparkfun.com/products/25662)
+* [GPS-24672](https://www.sparkfun.com/products/24672) - Beta hardware
 
 License Information
 -------------------
