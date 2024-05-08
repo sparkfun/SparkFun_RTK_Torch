@@ -55,7 +55,7 @@ To turn the RTK Torch on, press and hold the power button for ~4 seconds. You wi
 
 To turn off the RTK Torch, press and hold the power button for ~4 seconds. You will hear *three* short beeps and all LEDs will turn off indicating the device has powered down.
 
-The GNSS icon will blink once per second when a GNSS fix is achieved. It will become solid when RTK Fix is achieved.
+The GNSS icon has two LEDs: a yellow LED will blink once per second when a GNSS fix is achieved, and a green LED will illuminate solid when RTK Fix is achieved.
 
 The Bluetooth icon will blink once per second while waiting for a connection. It will become solid when a device (phone, laptop, tablet, etc) is connected.
 
