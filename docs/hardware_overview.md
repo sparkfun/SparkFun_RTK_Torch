@@ -39,9 +39,9 @@ The RTK Torch utilizes a specially tuned multi-frequency helical antenna making 
 
 [![SparkFun RTK Torch ARP](RTK-Torch-ARP-Small.jpg)](RTK-Torch-ARP.jpg)
 
-*SparkFun RTK Torch Antenna Reference Point*
+*SparkFun RTK Torch Antenna Reference Point to Antenna Phase Centers*
 
-The ARP for the RTK Torch is **115mm** to L1 and **118mm** to L2/L5 reception.
+The distance between the ARP on the RTK Torch to the L1 APC (antenna phase center) is **115mm** and **118mm** to the L2/L5 APC.
 
 ## Power / USB
 
