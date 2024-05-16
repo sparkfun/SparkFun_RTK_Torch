@@ -7,7 +7,7 @@ The following datasheets are available for the SparkFun RTK Torch:
 * [UM980 GNSS Receiver Datasheet](https://raw.githubusercontent.com/sparkfun/SparkFun_RTK_Torch/main/Datasheets/UM980_Datasheet.pdf)
 * [UM980 GNSS Receiver Commands](https://raw.githubusercontent.com/sparkfun/SparkFun_RTK_Torch/main/Datasheets/Unicore Reference Commands Manual For N4 High Precision Products_V2_EN_R1.3)
 * [IM19 Tilt Sensor Integration Guide](https://raw.githubusercontent.com/sparkfun/SparkFun_RTK_Torch/main/Datasheets/IM19_IMU_Tilt_Sensor_IntegrationGuide_v1_3_7.pdf)
-* [IM19 Tilt Sensor Datasheet](https://raw.githubusercontent.com/sparkfun/SparkFun_RTK_Torch/main/IM19_IMU_Tilt_Sensor_v1_1_10.pdf)
+* [IM19 Tilt Sensor Datasheet](https://raw.githubusercontent.com/sparkfun/SparkFun_RTK_Torch/main/Datasheets/IM19_IMU_Tilt_Sensor_v1_1_10.pdf)
 * [MP2762A Charger IC](<https://raw.githubusercontent.com/sparkfun/SparkFun_RTK_Torch/main/Datasheets/MP2762AGV - Charger IC.pdf>)
 * [BQ40Z50 Battery Pack Manager Datasheet](https://raw.githubusercontent.com/sparkfun/SparkFun_RTK_Torch/main/Datasheets/bq40z50_-_Datasheet.pdf)
 * [BQ40Z50 Battery Pack Manager Technical Reference](https://raw.githubusercontent.com/sparkfun/SparkFun_RTK_Torch/main/Datasheets/bq40z50_-_Technical_Reference.pdf)
