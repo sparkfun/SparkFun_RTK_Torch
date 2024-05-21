@@ -8,7 +8,7 @@ This is an overview of the [RTK Torch hardware](https://www.sparkfun.com/product
 
 *RTK Torch on a Monopod + Bipod*
 
-The RTK Torch from SparkFun Electronics uses the UM980 high precision RTK capable GNSS receiver from Unicore ([datasheet](../Datasheets/UM980_Datasheet.pdf)). The receiver is capable of achieving the following accuracies:
+The RTK Torch from SparkFun Electronics uses the UM980 high precision RTK capable GNSS receiver from Unicore ([datasheet](https://raw.githubusercontent.com/sparkfun/SparkFun_RTK_Torch/main/Datasheets/UM980_Datasheet.pdf)). The receiver is capable of achieving the following accuracies:
 
 * Single Point Positioning: 
     * Horizontal: 1.5m
