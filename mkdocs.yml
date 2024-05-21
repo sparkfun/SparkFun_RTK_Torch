@@ -70,7 +70,7 @@ plugins:
 
   #Generates PDF
   - with-pdf:
-      copyright: SparkFun Electronics - 2023
+      copyright: SparkFun Electronics - 2024
       cover_subtitle: Simple and Cost Effective High-Precision Navigation
       output_path: pdf/SparkFun_RTK_Torch.pdf
       author: This PDF is automatically generated. See https://docs.sparkfun.com/SparkFun_RTK_Torch/ for the latest version.
@@ -93,7 +93,7 @@ plugins:
       #verbose: true
 
 copyright: 
-    Copyright 2023 - <a href="https://www.sparkfun.com/" target="_blank" rel="noopener">SparkFun Electronics&#174;<br>
+    Copyright 2024 - <a href="https://www.sparkfun.com/" target="_blank" rel="noopener">SparkFun Electronics&#174;<br>
     <a href="https://goo.gl/maps/vkstCpQZW6jZMjzYA" target="_blank" rel="noopener">6333 Dry Creek Parkway, Niwot, Colorado 80503</a>
 
 markdown_extensions:
