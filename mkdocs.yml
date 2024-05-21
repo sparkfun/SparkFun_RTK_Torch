@@ -6,6 +6,7 @@ site_author: SparkFun Electronics
 
 repo_url: https://github.com/sparkfun/SparkFun_RTK_Torch
 repo_name: sparkfun/SparkFun_RTK_Torch
+edit_uri: edit/main/docs/
 
 theme:
   name: material
